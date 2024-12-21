@@ -1,6 +1,6 @@
 <application>
-  <component name="BuiltInServerOptions" builtInServerPort="52238" />
-  <component name="FileEditorProviderManager"><![CDATA[{}]]></component>
+  <component name="BuiltInServerOptions" builtInServerPort="62332" />
+  <component name="FileEditorProviderManager">{}</component>
   <component name="LangManager">
     <option name="languageName" value="JAVA" />
   </component>
@@ -20,10 +20,12 @@
     "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "evlsprt3.243": "6",
     "experimental.ui.on.first.startup": "true",
+    "experimental.ui.switch": "true",
     "experimental.ui.used.version": "243.21565.193",
     "fileTypeChangedCounter": "1",
     "fontSizeToResetConsole": "13.0",
     "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.new.terminal.promotion.243": "1",
     "input.method.disabler.muted": "true",
     "installed.kotlin.plugin.version": "243.21565.193-IJ",
     "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
@@ -47,7 +49,7 @@
 }]]></component>
   <component name="TerminalCommandHistoryManager">
     <command-history-files>
-      <command-history-file filename="empty-history" project-path="/workspace/empty" last-access-time="1734776016362" />
+      <command-history-file filename="empty-history" project-path="/workspace/empty" last-access-time="1734776056462" />
     </command-history-files>
   </component>
 </application>
